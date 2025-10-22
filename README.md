@@ -127,7 +127,7 @@ This repository contains three comprehensive test cases:
 ```bash
 # Clone the repository
 git clone https://github.com/SaadiMalik1/Ethena
-cd usde-silo-vulnerability-poc
+
 
 ```
 
