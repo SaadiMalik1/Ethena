@@ -132,8 +132,6 @@ git clone https://github.com/SaadiMalik1/Ethena
 
 ##  Running the Tests
 
-### Run All Tests
-
 ```bash
 forge test --match-contract USDeSiloVulnerabilityTest -vvvv
 ```
