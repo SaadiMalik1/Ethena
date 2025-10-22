@@ -70,12 +70,8 @@ Final State:
 
 ### Financial Loss Scenario
 
-Assuming:
-- Protocol TVL: $10M
-- Emergency pause duration: 24 hours
-- Users attempting withdrawal: 30%
+<img width="787" height="534" alt="Screenshot_20251022_084735" src="https://github.com/user-attachments/assets/849887a5-183e-4c49-b4cc-6df54572bdf4" />
 
-**Potential Loss**: **$3,000,000+**
 
 ### Who is Affected?
 
