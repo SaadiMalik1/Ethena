@@ -96,20 +96,6 @@ This repository contains three comprehensive test cases:
    - Confirms system works when token not paused
    - Baseline comparison
 
-### Repository Structure
-
-```
-.
-├── src/
-│   ├── USDeSilo.sol                    # Vulnerable contract
-│   └── interfaces/
-│       └── IUSDeSiloDefinitions.sol    # Interface
-├── test/
-│   └── USDeSiloPoC.t.sol              # Proof of Concept tests
-├── foundry.toml                        # Foundry configuration
-└── README.md                           # This file
-```
-
 ---
 
 ##  Setup Instructions
