@@ -28,7 +28,7 @@ The `USDeSilo` contract contains a **critical vulnerability** that leads to perm
 
 ### Root Cause
 
-**File**: `src/USDeSilo.sol`  
+**File**: `src/USDeSilo_7fc7/contracts/USDeSilo.sol`  
 **Function**: `withdraw(address to, uint256 amount)`  
 **Line**: 28
 
