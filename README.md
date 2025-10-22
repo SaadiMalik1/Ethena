@@ -18,9 +18,6 @@ The `USDeSilo` contract contains a **critical vulnerability** that leads to perm
 - [Proof of Concept](#proof-of-concept)
 - [Setup Instructions](#setup-instructions)
 - [Running the Tests](#running-the-tests)
-- [Test Results](#test-results)
-- [The Fix](#the-fix)
-- [Disclosure](#disclosure)
 
 ---
 
@@ -115,7 +112,7 @@ This repository contains three comprehensive test cases:
 
 ---
 
-## 🛠 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 
@@ -133,7 +130,7 @@ git clone https://github.com/SaadiMalik1/Ethena
 
 ---
 
-## ▶️ Running the Tests
+##  Running the Tests
 
 ### Run All Tests
 
